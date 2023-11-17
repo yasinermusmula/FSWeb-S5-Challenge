@@ -1,8 +1,8 @@
-const Tablar = (konu) => {
+const Tablar = (konular) => {
   // GÖREV 3
   // ---------------------
-  // Tek argümanı bir dizi ("konu") olan bu fonksiyonu uygulayın.
-  // Örnek olarak, konu dizisi şu şekilde deklare edilmişse ['javascript', 'bootstrap', 'teknoloji']
+  // Tek argümanı bir dizi ("konular") olan bu fonksiyonu uygulayın.
+  // Örnek olarak, konular dizisi şu şekilde deklare edilmişse ['javascript', 'bootstrap', 'teknoloji']
   // fonksiyon aşağıdaki şekilde bir DOM öğesi döndürecek.
   // Kullanılan etiketler, öğelerin hiyerarşisi ve öznitelikleri sağlanan işaretlemeyle eşleşmelidir!
   // Öğelerin içindeki metin, "textContent" özelliği kullanılarak ayarlanacaktır ("innerText" DEĞİL).
